@@ -1,0 +1,8 @@
+%product mni-templates
+%copyright 2006-2010 Louis Collins
+%vendor McConnell Brain Imaging Centre
+%packager Claude Lepage <claude@bic.mni.mcgill.ca>
+%license COPYING
+%readme README
+%description mni-templates for ICBM152 models
+%version @VERSION@
